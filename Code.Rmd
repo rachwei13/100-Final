@@ -1,1 +1,25 @@
 #Introduction
+
+# Variable Descriptions 
+
+* country_name: The country where the data was collected 
+
+* year: The year in which the data was recorded, covering the period from 2008-2023. 
+
+* life_ladder: A measure reflecting individuals' self assessment of their life satisfaction on a scale from 0-10. 
+
+* gdp_per_capita: An indicator of economic prosperity, representing the average income per person in a country, adjusted for population size. 
+
+* social_support: The degree to which people feel they have someone to rely on in times of need, measured from a scale of 0-10. 
+
+* healthy_life_expectancy: The estimated number of years a newborn is expected to live in good health, serving as an indicator of overall health and well-being. 
+
+* freedom_of_choice: A measure of perceived personal autonomy and the ability to make independent life decisions 
+
+* generosity: The proportion of charitable contributions within a country that cannot be explained solely by economic factors such as GDP per capita. 
+
+* perceptions_of_corruption: A measure of how widespread individuals perceive corruption to be within their government and business sectors, ranging from 0 to 1.
+
+* positive_affect: The average level of positive emotions reported in a country, based on survey responses about experiences of laughter, joy, and engaging activities from the previous day.
+
+* negative_affect: The average level of negative emotions in a country, derived from survey responses about feelings of sadness, worry, and anger experienced during the previous day.
